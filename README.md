@@ -1,14 +1,14 @@
 # LBE_Alpro2020
  
 ### Minggu 1
-    # Belajar HTML
+    Belajar HTML
         -Tag
         -Attribut
         -Tabel
         -Form
     
 ### Minggu 2
-    # Belajar CSS
+    Belajar CSS
         -Value
         -Selector
         -attribut
